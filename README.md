@@ -2,4 +2,4 @@
 
 ![Alt text](/Screenshots/game_over.png?raw=true "Optional Title")
 
-[Imgur](https://i.imgur.com/hDL9huq.mp4)
+[Imgur](https://imgur.com/YJlEvZ1)

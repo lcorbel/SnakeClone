@@ -26,7 +26,7 @@ This will allow you to modify/update the game as you wish!
 
 Here is a link to an online hosted version of the game for you to try it out :
 
-[Play the game online!](https://lcorbel.github.io/SnakeClone)
+[Play the game online!](https://lcorbel.github.io/SnakeClone/)
 
 ## Gameplay
 

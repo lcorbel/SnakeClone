@@ -12,17 +12,21 @@ Some of the key skills that this project helped consolidate include the followin
 - Player preferences to keep track of highscores
 - Basic UI and on-click button interaction
 
-## Installation
+## Clone
 
-Simply clone this repository on your computer with the following command :
+Feel free to clone this repo on your computer with the following command :
 
 ```bash
 git clone https://github.com/lcorbel/SnakeClone.git
 ```
 
-## Usage
+This will allow you to modify/update the game as you wish!
 
-Run the executable found at the root of the cloned folder : "SnakeClone.exe"
+## Online build of the game
+
+Here is a link to an online hosted version of the game for you to try it out :
+
+[Play the game online!](https://lcorbel.github.io/SnakeClone)
 
 ## Gameplay
 

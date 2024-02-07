@@ -28,6 +28,8 @@ Here is a link to an online hosted version of the game for you to try it out :
 
 [Play the game online!](https://lcorbel.github.io/SnakeClone/)
 
+Controls are WASD.
+
 ## Gameplay
 
 Welcome screen : 
